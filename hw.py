@@ -37,7 +37,7 @@ def main():
             case "y":
                 continue
             case "n":
-                print("Huck tou!".upper())
+                print("Huck you!".upper())
                 is_running = False
                 continue
             case _:
